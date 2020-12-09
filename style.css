@@ -1,0 +1,83 @@
+header{
+    background-color: darkgray;
+    padding: 20px;
+    margin-bottom: 20px;
+    color: darkolivegreen;
+}
+
+
+body {
+    background-color: salmon;
+    margin: 0;
+    padding: 0;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 25px;
+    line-height: 40px;
+    color: snow;
+   
+}
+p {
+    color: snow;
+
+
+}
+
+h1 {
+    color: aqua;
+    background-color: black;
+    margin: 0;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-size: 40px;
+    font-family: fantasy;
+
+}
+
+h2 {
+    font-size: 40px;
+    font-family: fantasy;
+   
+}
+
+a {
+    color:red;
+}
+
+.container {
+    width: 1024px;
+    margin: 0 auto;
+}
+
+#main-bio,
+#contact-info,
+#about-kiki {
+   float: left;
+}
+
+#main-bio {
+    width: 50%;
+}
+#contact-info{
+    width: 50%;
+    padding-left: 10px;
+}
+#about-kiki {
+    width: 50%;
+    line-height: 80px;
+}
+
+#kikilee {
+    margin-right: 20px;
+    width: 200px;
+    height: 300px;
+
+}
+#list {
+    line-height: 50px;
+}
+
+.box-set{
+    background-color: darkorange;
+    background-position-y: center;
+}
